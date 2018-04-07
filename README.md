@@ -1,17 +1,16 @@
 ## Welcome to jhellier710
 
-
 ### This is just a trial website
 
-<p> I need to _learn_ how to do **this** better </p>
+I need to _learn_ how to do **this** better.
 
-- Bulleted
-- List
+- add pages
+- Link pages to nav bar
 
-1. Numbered
-2. List
+1. decide which forms to use
+2. get forms translated
 
-**Bold** and _Italic_ and `Code` text
+ `Code` text
 
 [Link](url) and ![Image](src)
 ```
